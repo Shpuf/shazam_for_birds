@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4b15eab0-67e6-42c6-bc1a-9bb44354d837"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rzag5m</alternateIdentifier>
+    <title>Estonian Ornithological Society (BirdLife Estonia)</title>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset curated by Estonian Ornithological Society</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.eoy.ee/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mostly Estonia</geographicDescription>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Margus</givenName>          <surName>Ots</surName>
+    </individualName>
+<electronicMailAddress>margus.ots@eoy.ee</electronicMailAddress>      </contact>
+
+      <project >
+          <title></title>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-06-09T06:27:55Z</dateStamp>
+      <citation>Estonian Ornithological Society (BirdLife Estonia). Estonian Ornithological Society (BirdLife Estonia). Occurrence dataset https://doi.org/10.15468/rzag5m accessed via GBIF.org on 2022-06-09.</citation>
+              <resourceLogoUrl>https://files.plutof.ut.ee/public/orig/AB/5B/AB5B1B7CCB113FBC654CA5F3064F86BBB69420D4723F12BE6C492454C3D1A3B5.svg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,10 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Abarenkov K. PlutoF platform reference-based occurrences. PlutoF. Occurrence dataset https://doi.org/10.15468/e15jve accessed via GBIF.org on 2022-06-08.
+Runnel V. My naturesounds - nature observations with sound recordings. PlutoF. Occurrence dataset https://doi.org/10.15468/hnheni accessed via GBIF.org on 2022-06-08.
+Cicero C (2022). MVZ Bird Observations (Arctos). Version 34.64. Museum of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/olcyq4 accessed via GBIF.org on 2022-06-08.
+Estonian Ornithological Society (BirdLife Estonia). Estonian Ornithological Society (BirdLife Estonia). Occurrence dataset https://doi.org/10.15468/rzag5m accessed via GBIF.org on 2022-06-08.
+Acevedo-Charry O, Borja-Acosta K (2022). Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CSA). Version 10.4. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/scqpmf accessed via GBIF.org on 2022-06-08.
+Museum für Naturkunde Berlin. Animal Sound Archive. Occurrence dataset https://doi.org/10.15468/0bpalr accessed via GBIF.org on 2022-06-08.
+Nelson D, Johnson N (2018). Borror Lab of Bioacoustics (BLB), Ohio State University. Version 84.36. Museum of Biological Diversity, The Ohio State University. Occurrence dataset https://doi.org/10.15468/wyz5x9 accessed via GBIF.org on 2022-06-08.
+iNaturalist contributors, iNaturalist (2022). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2022-06-08.
+Vellinga W (2022). Xeno-canto - Bird sounds from around the world. Xeno-canto Foundation for Nature Sounds. Occurrence dataset https://doi.org/10.15468/qv0ksn accessed via GBIF.org on 2022-06-08.

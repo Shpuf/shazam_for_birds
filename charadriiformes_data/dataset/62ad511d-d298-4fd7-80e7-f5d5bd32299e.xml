@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="62ad511d-d298-4fd7-80e7-f5d5bd32299e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/olcyq4</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=mvzobs_bird</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=mvzobs_bird</alternateIdentifier>
+        <alternateIdentifier>62ad511d-d298-4fd7-80e7-f5d5bd32299e</alternateIdentifier>
+        <alternateIdentifier>14804</alternateIdentifier>
+    <title>MVZ Bird Observations (Arctos)</title>
+    <creator>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Cicero</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Ornithology</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 642-7868</phone><electronicMailAddress>ccicero@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Cicero</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Ornithology</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 642-7868</phone><electronicMailAddress>ccicero@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dusty</givenName>          <surName>McDonald</surName>
+    </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rauri</givenName>          <surName>Bowie</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Faculty Curator of Ornithology</positionName>    <address>
+<deliveryPoint>3101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643 1617</phone><electronicMailAddress>bowie@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2022-05-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The MVZ maintains an online catalog of bird observations vouchered with media, fieldnotes, or other documentation. These records are curated with the same minimal data standards as vouchered specimens.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>MVZ bird observational data are focused on western North America, with additional data from eastern United States, Mexico, Central America, South America, Asia, and Africa.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>MVZ bird observational data are focused on Passeriformes, with spotty representation for other avian orders.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carla</givenName>          <surName>Cicero</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Ornithology</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 642-7868</phone><electronicMailAddress>ccicero@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-06-09T06:27:55Z</dateStamp>
+      <citation>Cicero C (2022). MVZ Bird Observations (Arctos). Version 34.64. Museum of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/olcyq4 accessed via GBIF.org on 2022-06-09.</citation>
+              <livingTimePeriod>1954 to present</livingTimePeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

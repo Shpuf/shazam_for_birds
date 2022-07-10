@@ -1,0 +1,3 @@
+
+Dataset: Xeno-canto - Bird sounds from around the world
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
